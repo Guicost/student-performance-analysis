@@ -112,5 +112,4 @@ Praticar:
 * Manipulação de dados com Pandas
 * Visualização de dados
 * Interpretação de correlações
-* Organização de projetos de Data Science
 
