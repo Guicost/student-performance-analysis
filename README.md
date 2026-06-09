@@ -44,19 +44,19 @@ O objetivo é identificar padrões e relações entre hábitos dos estudantes, c
 
 ### Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](image/heatmap.png)
 
 ---
 
 ### Study Hours vs Exam Score
 
-![Study Hours](images/study_vs_score.png)
+![Study Hours](image/study_vs_score.png)
 
 ---
 
 ### Social Media vs Exam Score
 
-![Social Media](images/social_media_vs_score.png)
+![Social Media](image/social_media_vs_score.png)
 
 ---
 
